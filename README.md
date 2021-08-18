@@ -16,13 +16,11 @@ Algoritmo de aproximación para inversiones en cryptos para binance basado en co
 Hexa Coin 
 
 Bitcoin 
-/    \
-Ether e um
-\   /
+    /    \
+   Ether e um
+    \   /
 2020 
    E
-NEO
-DIOS ....
- /\|\||\
+
 H F E R
 0  101
